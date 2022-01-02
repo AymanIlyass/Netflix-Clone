@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+Deployed on this link: https://particeep-test-f13d0.web.app
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
